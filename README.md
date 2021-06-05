@@ -3,7 +3,7 @@ Conway's game of life implementation with optimizations and some fancy UI.
 
 ## Requirements
  - Python 3.5+
- - Pygame
+ - [Pygame](https://github.com/pygame/pygame#installation)
  - [Pygame-gui](https://github.com/MyreMylar/pygame_gui#how-to-install)
 
 ## How to install
