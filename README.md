@@ -7,7 +7,7 @@ Conway's game of life implementation with optimizations and some fancy UI.
  - [Pygame-gui](https://github.com/MyreMylar/pygame_gui#how-to-install)
 
 ## How to install
-Clone the repository and execute "game_of_life.py"
+Clone the repository and execute "game_of_life.py" from repository folder
 
 ## How to use
  - Draw or erase cells with LMB
