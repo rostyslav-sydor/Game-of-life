@@ -124,6 +124,7 @@ class GameBoard:
     def initControls(self):
         rel_x = GRID_WIDTH
         self.back = pygame.Rect(GRID_WIDTH, 0, WIDTH - GRID_WIDTH, HEIGHT)
+        template_folder = []
         try:
             path = os.path.abspath("data\\templates")
             template_folder = os.listdir(path)
